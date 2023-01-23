@@ -1,5 +1,5 @@
 {
-  "name": "page-rendering-data-fetching",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,6 +11,7 @@
   "dependencies": {
     "@next/font": "13.1.4",
     "next": "13.1.4",
+    "prettier": "^2.8.3",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   }
