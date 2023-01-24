@@ -9,16 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/font": "13.1.4",
-    "fs": "^0.0.1-security",
-    "next": "13.1.4",
-    "prettier": "^2.8.3",
+    "next": "13.1.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
-  "browser": {
-    "fs": false,
-    "path": false,
-    "os": false
+  "devDependencies": {
+    "eslint": "8.32.0",
+    "eslint-config-next": "13.1.5"
   }
 }
